@@ -16,11 +16,11 @@ namespace Demo01_T7
 
             if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
             {
-                Console.WriteLine("On karkausvuosi");
+                Console.WriteLine("On karkausvuosi.");
             }
             else
             {
-                Console.WriteLine("Ei ole karkausvuosi");
+                Console.WriteLine("Ei ole karkausvuosi.");
             }
             Console.ReadLine();
         }
