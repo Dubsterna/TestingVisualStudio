@@ -27,7 +27,6 @@ namespace Demo01_T4
             }
             Console.WriteLine("Press enter key to continue...");
             Console.ReadLine();
-
         }
     }
 }
